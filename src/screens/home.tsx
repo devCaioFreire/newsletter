@@ -34,7 +34,7 @@ export default function Home() {
 
           <section className='flex flex-col sm:gap-2 2sm:gap-4'>
             <h1 className='text-lg text-center font-medium lg:text-2xl'>Subscribe Newsletter</h1>
-            <p className='text-sm text-center lg:text-lg'>Subscribe to our email & get updates right  your inbox</p>
+            <p className='text-sm text-center lg:text-lg'>Subscribe to my newsletter and get updates right your inbox</p>
           </section>
 
           <CustomForm />
