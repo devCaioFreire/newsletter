@@ -8,6 +8,11 @@ I developed a newsletter, a scalable way to inform, sell, and acquire customers 
 
 ![App Screenshot](https://i.ibb.co/5nxnz0r/newsletter.png)
 
+## Demo
+
+```bash
+ https://newsletter-devfreire.vercel.app/
+```
 
 ## Tech Stack
 
