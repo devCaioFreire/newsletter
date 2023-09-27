@@ -40,7 +40,7 @@ export default function Home() {
           <CustomForm />
 
           <div className='flex h-full items-center justify-between 2xl:mt-36'>
-            <p className='text-xs'>Developed by <strong>className='cursor-text'Caio Freire</strong></p>
+            <p className='text-xs'>Developed by <strong>Caio Freire</strong></p>
             <a href='https://github.com/devCaioFreire' target='_blank' className='text-xs'>Github</a>
           </div>
         </div>
